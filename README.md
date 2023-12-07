@@ -32,7 +32,7 @@ Enter the SumValue: 9
 
 To run this program locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/FindTheSumOfArray.git`
+1. Clone this repository: `git clone https://github.com/Arun-Pandian88/FindTheSumOfArray.git`
 2. Compile and run the `FindThe_SumOfArray.java` file.
 
 ## Contributions
